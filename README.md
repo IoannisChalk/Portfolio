@@ -9,7 +9,7 @@ Most of these projects are exercises I completed as part of three certifications
 
 These hands-on projects provided me with practical experience in exploring data, developing models, and solving real-world problems. While most projects were guided exercises, I approached them with a mindset of independent learning and experimentation to deepen my understanding. 
 
-This portfolio is a testament to my dedication to mastering the field of data science and AI, and I hope it provides you with insights into my capabilities. 🚀
+This portfolio is a testament to my dedication to mastering the field of data science and machine learning , and I hope it provides you with insights into my capabilities. 🚀
 
 
 ---
