@@ -1,6 +1,16 @@
-# Ioannis Chalkiadakis - Portfolio
+# Ioannis Chalkiadakis - Portfolio 🚀
 
-Welcome to my portfolio! Below you will find a categorized list of my projects with detailed descriptions.
+Welcome to my portfolio! ✨ Here, you’ll find a curated list of projects that showcase my skills in data analysis, machine learning, and deep learning.
+
+Most of these projects are exercises I completed as part of three certifications:
+- **Google Advanced Data Analytics** 
+- **Machine Learning Specialization** by Andrew Ng 
+- **Deep Learning Specialization** by Andrew Ng 
+
+These hands-on projects provided me with practical experience in exploring data, developing models, and solving real-world problems. While most projects were guided exercises, I approached them with a mindset of independent learning and experimentation to deepen my understanding. 
+
+This portfolio is a testament to my dedication to mastering the field of data science and AI, and I hope it provides you with insights into my capabilities. 🚀
+
 
 ---
 
