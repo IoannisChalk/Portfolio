@@ -6,7 +6,7 @@ Welcome to my portfolio! Below you will find a categorized list of my projects w
 
 ## Data Analysis & Machine Learning
 - ### "Comprehensive Data Exploration and Feature Engineering for TikTok Claims Classification"
-Leveraged Python to analyze engagement metrics, investigate trends by claim and author status, and prepare data for machine learning applications.
+  Leveraged Python to analyze engagement metrics, investigate trends by claim and author status, and prepare data for machine learning applications.
 
 ### "Exploratory Data Analysis and Visualization for TikTok Content Insights"
 Conducted comprehensive data cleaning and visualization in Python to distinguish characteristics of claim versus opinion videos, supporting informed decisions in content moderation.
