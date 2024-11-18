@@ -4,7 +4,7 @@ Welcome to my portfolio! Below you will find a categorized list of my projects w
 
 ---
 
-## Data Analysis & Machine Learning
+## Data Analysis & Machine Learning 📊🤖
 - ### "Comprehensive Data Exploration and Feature Engineering for TikTok Claims Classification"
   Leveraged Python to analyze engagement metrics, investigate trends by claim and author status, and prepare data for machine learning applications.
 
@@ -61,7 +61,7 @@ Welcome to my portfolio! Below you will find a categorized list of my projects w
 
 ---
 
-## Deep Learning
+## Deep Learning 🧠🔗
 
 - ### "Neural Network for Handwritten Digit Recognition (Binary Classification)"
   Built and evaluated a neural network model with TensorFlow/Keras and NumPy to recognize handwritten digits 0 and 1, exploring both standard and vectorized implementations.
