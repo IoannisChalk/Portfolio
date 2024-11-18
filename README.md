@@ -5,19 +5,19 @@ Welcome to my portfolio! Below you will find a categorized list of my projects w
 ---
 
 ## Data Analysis & Machine Learning 📊🤖
-- ### "Comprehensive Data Exploration and Feature Engineering for TikTok Claims Classification"
+- ### "Comprehensive Data Exploration and Feature Engineering for TikTok Claims Classification" 
   Leveraged Python to analyze engagement metrics, investigate trends by claim and author status, and prepare data for machine learning applications.
 
-- ### "Exploratory Data Analysis and Visualization for TikTok Content Insights"
+- ### "Exploratory Data Analysis and Visualization for TikTok Content Insights" 
   Conducted comprehensive data cleaning and visualization in Python to distinguish characteristics of claim versus opinion videos, supporting informed decisions in content  moderation.
 
-- ### "Two-Sample Hypothesis Testing for Content Classification on TikTok"
+- ### "Two-Sample Hypothesis Testing for Content Classification on TikTok" 
   Conducted two-sample hypothesis tests to identify statistically significant differences between content categories, providing actionable insights for improved content moderation.
 
-- ### "Logistic Regression for Predicting Verified User Status on TikTok"
+- ### "Logistic Regression for Predicting Verified User Status on TikTok" 
   Developed and evaluated a logistic regression model to estimate the likelihood of user verification, leveraging video characteristics to gain insights into content categorization.
 
-- ### "Machine Learning Model for Classifying Claims vs. Opinions in TikTok Videos"
+- ### "Machine Learning Model for Classifying Claims vs. Opinions in TikTok Videos" 
   Developed and evaluated Random Forest and XGBoost classifiers, using recall as the primary evaluation metric, to accurately distinguish between claim and opinion videos for enhanced content moderation.
 
 - ### "Predicting Customer Churn with Naive Bayes"
