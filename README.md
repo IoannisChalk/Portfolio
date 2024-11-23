@@ -57,7 +57,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Binomial Logistic Regression for Predicting Customer Satisfaction in Airline Services](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Airline_Satisfaction_Binomial_Logistic_Regression)
   Built and evaluated a binomial logistic regression model to predict customer satisfaction, leveraging in-flight experience data to provide actionable insights for service improvement.
 
-- ### "Confidence Interval Analysis for Air Quality Impact on Renewable Energy Policy"
+- ### [Confidence Interval Analysis for Air Quality Impact on Renewable Energy Policy](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Air_Quality_Confidence_Intervals)
   Analyzed AQI data to construct confidence intervals and identify American states most likely to be affected by new federal renewable energy subsidies, using visualization and statistical inference.
 
 - ### "Hypothesis Testing of Literacy Rates Across Regions Using Python"
