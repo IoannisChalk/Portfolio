@@ -54,7 +54,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Hypothesis Testing with ANOVA for Sales Differences in Marketing Promotions](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Sales_Differences_ANOVA_Testing)
   Conducted one-way ANOVA and post hoc tests to assess the impact of various marketing promotion types on sales, providing data-driven insights for targeted campaign strategies.
 
-- ### "Binomial Logistic Regression for Predicting Customer Satisfaction in Airline Services"
+- ### [Binomial Logistic Regression for Predicting Customer Satisfaction in Airline Services](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Airline_Satisfaction_Binomial_Logistic_Regression)
   Built and evaluated a binomial logistic regression model to predict customer satisfaction, leveraging in-flight experience data to provide actionable insights for service improvement.
 
 - ### "Confidence Interval Analysis for Air Quality Impact on Renewable Energy Policy"
