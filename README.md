@@ -39,7 +39,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Random Forest Model for Predicting Customer Satisfaction in Airline Services](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Airline_Satisfaction_RF_Model)
   Trained and optimized a Random Forest model to predict customer satisfaction, leveraging survey data to improve service insights.
 
-- ### "XGBoost Model for Predicting Customer Satisfaction in Airline Services"
+- ### [XGBoost Model for Predicting Customer Satisfaction in Airline Services](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Airline_Satisfaction_XGBoost_Model)
   Built and fine-tuned an XGBoost model to predict customer satisfaction, with model comparison and feature importance analysis for enhanced service insights.
 
 - ### "Naive Bayes Model for Predicting NBA Player Career Longevity"
