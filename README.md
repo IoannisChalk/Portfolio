@@ -63,7 +63,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Hypothesis Testing of Literacy Rates Across Regions Using Python](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Literacy_Rates_Hypothesis_Testing)
   Analyzed district-wise data from two states of America to determine statistical significance of literacy disparities using random sampling and two-sample t-tests.
 
-- ### "Hypothesis Testing for Air Quality Policy Recommendations"
+- ### [Hypothesis Testing for Air Quality Policy Recommendations](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Air_Quality_Policy_Hypothesis_Testing)
   Conducted hypothesis tests on AQI data to support strategic decisions in air quality improvement, including regional office placement and targeted state policies.
 
 - ### "Exploratory Data Analysis for High-Value Startups (Unicorn Companies) Insights"
