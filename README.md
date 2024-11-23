@@ -42,7 +42,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [XGBoost Model for Predicting Customer Satisfaction in Airline Services](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Airline_Satisfaction_XGBoost_Model)
   Built and fine-tuned an XGBoost model to predict customer satisfaction, with model comparison and feature importance analysis for enhanced service insights.
 
-- ### "Naive Bayes Model for Predicting NBA Player Career Longevity"
+- ### [Naive Bayes Model for Predicting NBA Player Career Longevity](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/NBA_Career_Longevity_Naive_Bayes)
   Developed a Naive Bayes model to predict whether an NBA player’s career will extend beyond five years, leveraging rookie-year performance metrics to support player retention strategies.
 
 - ### "Linear Regression Analysis of Penguin Morphometrics"
