@@ -36,7 +36,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Penguin Population Segmentation using K-means Clustering](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Penguin_Segmentation_KMeans)
   Applied K-means clustering to segment penguin populations based on key attributes, providing insights to aid in conservation efforts.
 
-- ### "Random Forest Model for Predicting Customer Satisfaction in Airline Services"
+- ### [Random Forest Model for Predicting Customer Satisfaction in Airline Services](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Airline_Satisfaction_RF_Model)
   Trained and optimized a Random Forest model to predict customer satisfaction, leveraging survey data to improve service insights.
 
 - ### "XGBoost Model for Predicting Customer Satisfaction in Airline Services"
