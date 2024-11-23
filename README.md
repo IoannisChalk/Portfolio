@@ -48,7 +48,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Linear Regression Analysis of Penguin Morphometrics](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Penguin_Morphometrics_Linear_Regression)
   Modeled Relationships Between Bill Length and Body Mass Using Python with pandas, statsmodels, and seaborn.
 
-- ### "Multiple Linear Regression for Sales Prediction in Marketing Campaigns"
+- ### [Multiple Linear Regression for Sales Prediction in Marketing Campaigns](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Sales_Prediction_Multiple_Regression)
   Applied multiple linear regression to estimate sales impact from TV, radio, social media, and influencer promotions, providing insights to optimize marketing strategies.
 
 - ### "Hypothesis Testing with ANOVA for Sales Differences in Marketing Promotions"
