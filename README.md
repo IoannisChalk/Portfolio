@@ -60,7 +60,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Confidence Interval Analysis for Air Quality Impact on Renewable Energy Policy](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Air_Quality_Confidence_Intervals)
   Analyzed AQI data to construct confidence intervals and identify American states most likely to be affected by new federal renewable energy subsidies, using visualization and statistical inference.
 
-- ### "Hypothesis Testing of Literacy Rates Across Regions Using Python"
+- ### [Hypothesis Testing of Literacy Rates Across Regions Using Python](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Literacy_Rates_Hypothesis_Testing)
   Analyzed district-wise data from two states of America to determine statistical significance of literacy disparities using random sampling and two-sample t-tests.
 
 - ### "Hypothesis Testing for Air Quality Policy Recommendations"
