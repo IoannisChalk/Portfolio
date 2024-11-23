@@ -15,7 +15,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 ---
 
 ## Data Analysis & Machine Learning 📊🤖
-- [Comprehensive Data Exploration and Feature Engineering for TikTok Claims Classification](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Comprehensive_TikTok_Data_Exploration)
+- ### [Comprehensive Data Exploration and Feature Engineering for TikTok Claims Classification](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Comprehensive_TikTok_Data_Exploration)
   Leveraged Python to analyze engagement metrics, investigate trends by claim and author status, and prepare data for machine learning applications.
 
 - ### "Exploratory Data Analysis and Visualization for TikTok Content Insights" 
