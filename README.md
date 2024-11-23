@@ -66,7 +66,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Hypothesis Testing for Air Quality Policy Recommendations](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Air_Quality_Policy_Hypothesis_Testing)
   Conducted hypothesis tests on AQI data to support strategic decisions in air quality improvement, including regional office placement and targeted state policies.
 
-- ### "Exploratory Data Analysis for High-Value Startups (Unicorn Companies) Insights"
+- ### [Exploratory Data Analysis for High-Value Startups (Unicorn Companies) Insights](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Unicorn_Companies_EDA)
   Conducted exploratory data analysis on unicorn companies—startups valued at over $1 billion—applying structuring techniques, datetime transformations, and visualizations to identify trends and support investment strategy.
 
 ---
