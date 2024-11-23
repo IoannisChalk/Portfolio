@@ -30,7 +30,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Machine Learning Model for Classifying Claims vs. Opinions in TikTok Videos](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/TikTok_Claims_Opinions_RF_XGBoost) 
   Developed and evaluated Random Forest and XGBoost classifiers, using recall as the primary evaluation metric, to accurately distinguish between claim and opinion videos for enhanced content moderation.
 
-- ### "Predicting Customer Churn with Naive Bayes"
+- ### [Predicting Customer Churn with Naive Bayes](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Predicting_Customer_Churn_Naive_Bayes)
   Built and Evaluated a Model Using MinMax Normalization to Identify At-Risk Bank Customers and Inform Retention Strategies.
 
 - ### "Penguin Population Segmentation using K-means Clustering"
