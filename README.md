@@ -21,7 +21,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ###  [Exploratory Data Analysis and Visualization for TikTok Content Insights](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Exploratory_Data_Analysis_TikTok_Content)
   Conducted comprehensive data cleaning and visualization in Python to distinguish characteristics of claim versus opinion videos, supporting informed decisions in content  moderation.
 
-- ### "Two-Sample Hypothesis Testing for Content Classification on TikTok" 
+- ### [Two-Sample Hypothesis Testing for Content Classification on TikTok](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/TikTok_Hypothesis_Testing)
   Conducted two-sample hypothesis tests to identify statistically significant differences between content categories, providing actionable insights for improved content moderation.
 
 - ### "Logistic Regression for Predicting Verified User Status on TikTok" 
