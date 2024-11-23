@@ -24,7 +24,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Two-Sample Hypothesis Testing for Content Classification on TikTok](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/TikTok_Hypothesis_Testing)
   Conducted two-sample hypothesis tests to identify statistically significant differences between content categories, providing actionable insights for improved content moderation.
 
-- ### "Logistic Regression for Predicting Verified User Status on TikTok" 
+- ### [Logistic Regression for Predicting Verified User Status on TikTok](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/TikTok_Verified_Status_Logistic_Regression) 
   Developed and evaluated a logistic regression model to estimate the likelihood of user verification, leveraging video characteristics to gain insights into content categorization.
 
 - ### "Machine Learning Model for Classifying Claims vs. Opinions in TikTok Videos" 
