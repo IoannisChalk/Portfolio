@@ -33,7 +33,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Predicting Customer Churn with Naive Bayes](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Predicting_Customer_Churn_Naive_Bayes)
   Built and Evaluated a Model Using MinMax Normalization to Identify At-Risk Bank Customers and Inform Retention Strategies.
 
-- ### "Penguin Population Segmentation using K-means Clustering"
+- ### [Penguin Population Segmentation using K-means Clustering](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Penguin_Segmentation_KMeans)
   Applied K-means clustering to segment penguin populations based on key attributes, providing insights to aid in conservation efforts.
 
 - ### "Random Forest Model for Predicting Customer Satisfaction in Airline Services"
