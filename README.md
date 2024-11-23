@@ -45,7 +45,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Naive Bayes Model for Predicting NBA Player Career Longevity](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/NBA_Career_Longevity_Naive_Bayes)
   Developed a Naive Bayes model to predict whether an NBA player’s career will extend beyond five years, leveraging rookie-year performance metrics to support player retention strategies.
 
-- ### "Linear Regression Analysis of Penguin Morphometrics"
+- ### [Linear Regression Analysis of Penguin Morphometrics](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Penguin_Morphometrics_Linear_Regression)
   Modeled Relationships Between Bill Length and Body Mass Using Python with pandas, statsmodels, and seaborn.
 
 - ### "Multiple Linear Regression for Sales Prediction in Marketing Campaigns"
