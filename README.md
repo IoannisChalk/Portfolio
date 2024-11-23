@@ -51,7 +51,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Multiple Linear Regression for Sales Prediction in Marketing Campaigns](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Sales_Prediction_Multiple_Regression)
   Applied multiple linear regression to estimate sales impact from TV, radio, social media, and influencer promotions, providing insights to optimize marketing strategies.
 
-- ### "Hypothesis Testing with ANOVA for Sales Differences in Marketing Promotions"
+- ### [Hypothesis Testing with ANOVA for Sales Differences in Marketing Promotions](https://github.com/IoannisChalk/Portfolio/tree/main/Data%20Analysis%20and%20Machine%20Learning/Sales_Differences_ANOVA_Testing)
   Conducted one-way ANOVA and post hoc tests to assess the impact of various marketing promotion types on sales, providing data-driven insights for targeted campaign strategies.
 
 - ### "Binomial Logistic Regression for Predicting Customer Satisfaction in Airline Services"
