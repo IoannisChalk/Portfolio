@@ -73,7 +73,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 
 ## Deep Learning 🧠🔗
 
-- ### "Neural Network for Handwritten Digit Recognition (Binary Classification)"
+- ### [Neural Network for Handwritten Digit Recognition (Binary Classification)](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Handwritten_Digit_Recognition_Binary)
   Built and evaluated a neural network model with TensorFlow/Keras and NumPy to recognize handwritten digits 0 and 1, exploring both standard and vectorized implementations.
 
 - ### "Neural Network for Handwritten Digit Recognition (Multiclass Classification)"
