@@ -88,7 +88,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Anomaly Detection in Server Performance Using Gaussian Distribution](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Server_Anomaly_Gaussian_Model)
   Implemented an anomaly detection model to identify failing servers, leveraging Gaussian distribution to classify server performance metrics as normal or anomalous.
 
-- ### "Collaborative Filtering Recommender System for Movie Recommendations"
+- ### [Collaborative Filtering Recommender System for Movie Recommendations](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Movie_Recommender_Collaborative_Filtering)
   Built a collaborative filtering recommender system to provide personalized movie recommendations based on user rating patterns, leveraging TensorFlow for model training.
 
 - ### "Content-Based Movie Recommendation System Using Neural Networks"
