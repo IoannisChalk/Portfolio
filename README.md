@@ -79,7 +79,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Neural Network for Handwritten Digit Recognition (Multiclass Classification)](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Multiclass_Digit_Recognition_Neural_Network)
   Developed a neural network with ReLU and Softmax activation functions to classify handwritten digits from 0 to 9, leveraging TensorFlow for multiclass recognition.
 
-- ### "Model Evaluation and Optimization Techniques for Machine Learning Algorithms"
+- ### [Model Evaluation and Optimization Techniques for Machine Learning Algorithms](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Model_Evaluation_Optimization)
   Utilized polynomial regression and neural networks (TensorFlow/Keras) on synthetic noisy data to explore bias-variance trade-offs, model complexity, and regularization techniques for improved accuracy.
 
 - ### "Decision Tree Implementation for Edibility Classification of Mushrooms"
