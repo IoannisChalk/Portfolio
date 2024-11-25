@@ -85,7 +85,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Decision Tree Implementation for Edibility Classification of Mushrooms](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Mushroom_Edibility_Decision_Tree)
   Built a decision tree from scratch to classify mushrooms as edible or poisonous, leveraging entropy and information gain calculations for optimal splitting.
 
-- ### "Anomaly Detection in Server Performance Using Gaussian Distribution"
+- ### [Anomaly Detection in Server Performance Using Gaussian Distribution](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Server_Anomaly_Gaussian_Model)
   Implemented an anomaly detection model to identify failing servers, leveraging Gaussian distribution to classify server performance metrics as normal or anomalous.
 
 - ### "Collaborative Filtering Recommender System for Movie Recommendations"
