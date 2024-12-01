@@ -109,7 +109,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Regularization Techniques for Overfitting in Deep Learning](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Overfitting_Regularization_DNN)
   Implemented L2 regularization and dropout in deep neural networks to improve generalization and prevent overfitting. Applied forward and backward propagation with regularization methods using Python and Scikit-learn.
 
-- ### [Happy Image Classification with Convolutional Neural Networks](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Happy_Face_Classification_CNN)
+- ### [Happy Image Classification with Convolutional Neural Networks](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Happy_Image_Classification_CNN)
   Built and trained a CNN model using TensorFlow's Sequential API to classify images as happy or not. Implemented preprocessing steps, model building, and evaluation pipelines to achieve accurate binary classification.
 
 - ### "Deep Residual Networks for Image Classification"
