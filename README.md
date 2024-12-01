@@ -97,7 +97,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Deep Q-Learning Agent for Lunar Lander](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Reinforcement_Learning_Lunar_Lander)
   Trained a DQN agent to safely land a lunar module in a simulation using reinforcement learning. Implemented techniques like experience replay and target networks to improve learning stability and performance.
 
-- ### "Logistic Regression for Image Classification"
+- ### [Logistic Regression for Image Classification](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Logistic_Regression_Image_Classifier)
   Built a binary image classifier using logistic regression, implementing gradient descent and cost function optimization with Python libraries like NumPy and Matplotlib.
 
 - ### "Neural Network for Planar Data Classification (Binary Classification)"
