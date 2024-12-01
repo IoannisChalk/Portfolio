@@ -115,7 +115,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Deep Residual Networks for Image Classification](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/ResNet50_Image_Classification)
   Designed and implemented a ResNet-50 architecture with skip connections to train very deep convolutional networks for image classification. Leveraged TensorFlow and Keras to build state-of-the-art models with improved accuracy and scalability.
 
-- ### "Transfer Learning with MobileNetV2 for Image Classification"
+- ### [Transfer Learning with MobileNetV2 for Alpaca Image Classification](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/MobileNetV2_Image_Classification)
   Adapted and fine-tuned a pre-trained MobileNetV2 model for binary classification of images, distinguishing between alpacas and non-alpacas. Leveraged transfer learning on ImageNet features to build a robust model. Implemented advanced data preprocessing techniques, including dataset splitting, normalization, and augmentation (e.g., random flips and rotations). Optimized the final dense layers for the specific target classes and evaluated the model's performance using accuracy and loss metrics.
 
 - ### "Object Detection for Autonomous Driving Using YOLO"
