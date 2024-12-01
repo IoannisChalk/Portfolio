@@ -106,7 +106,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Deep Neural Network for Cat Image Classification](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Cat_Image_Classification_DNN)
   Built and trained an L-layer deep neural network for binary classification of cat images, leveraging forward/backward propagation and cross-entropy loss. Improved accuracy over logistic regression using Python and advanced machine learning libraries.
 
-- ### "Regularization Techniques for Overfitting in Deep Learning"
+- ### [Regularization Techniques for Overfitting in Deep Learning](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Overfitting_Regularization_DNN)
   Implemented L2 regularization and dropout in deep neural networks to improve generalization and prevent overfitting. Applied forward and backward propagation with regularization methods using Python and Scikit-learn.
 
 - ### "Convolutional Neural Networks for Binary and Multiclass Classification"
