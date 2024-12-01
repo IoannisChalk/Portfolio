@@ -143,7 +143,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
   Built and trained a Transformer model, implementing positional encodings, scaled dot-product self-attention, and multi-head attention. Developed encoder-decoder architectures for efficient parallel sequence processing.
 
 - ### "Created an image classification model to recognize five different flower species using CNN"
-  The project employed transfer learning with a pre-trained MobileNetV2 model, along with data augmentation techniques to improve accuracy and reduce overfitting.
+  Developed an image classification model to recognize five different flower species using a pre-trained MobileNetV2 model. The project leveraged transfer learning, freezing the base model's layers and training custom dense layers for flower classification. Implemented advanced data augmentation techniques, including rotation, shifting, zooming, and flipping, to improve accuracy and reduce overfitting. Evaluated model performance with accuracy and loss metrics, visualizing results and predictions for robust validation.
 
 - ### "Citrus Disease Classification Using Convolutional Neural Networks (CNNs)"
   Developed and optimized a Convolutional Neural Network (CNN) model using MobileNetV2 to classify citrus leaf diseases with high accuracy. Applied techniques such as data augmentation, transfer learning, and fine-tuning to enhance model performance, achieving 86.55% test accuracy. Designed a comprehensive pipeline for preprocessing, training, and visualization, showcasing proficiency in TensorFlow and image classification tasks.
