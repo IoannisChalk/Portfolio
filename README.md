@@ -118,7 +118,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Transfer Learning with MobileNetV2 for Alpaca Image Classification](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/MobileNetV2_Image_Classification)
   Adapted and fine-tuned a pre-trained MobileNetV2 model for binary classification of images, distinguishing between alpacas and non-alpacas. Leveraged transfer learning on ImageNet features to build a robust model. Implemented advanced data preprocessing techniques, including dataset splitting, normalization, and augmentation (e.g., random flips and rotations). Optimized the final dense layers for the specific target classes and evaluated the model's performance using accuracy and loss metrics.
 
-- ### "Object Detection for Autonomous Driving Using YOLO"
+- ### [Object Detection for Autonomous Driving Using YOLO](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/YOLO_Object_Detection_Autonomous_Driving)
   Implemented the YOLO model for car detection, including bounding box generation, non-max suppression, and intersection over union (IoU) for enhanced accuracy. Processed real-world datasets with TensorFlow for robust object detection in autonomous driving scenarios.
 
 - ### "Semantic Image Segmentation with U-Net for Autonomous Driving"
