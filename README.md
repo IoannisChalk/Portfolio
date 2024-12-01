@@ -112,7 +112,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Happy Image Classification with Convolutional Neural Networks](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Happy_Image_Classification_CNN)
   Built and trained a CNN model using TensorFlow's Sequential API to classify images as happy or not. Implemented preprocessing steps, model building, and evaluation pipelines to achieve accurate binary classification.
 
-- ### "Deep Residual Networks for Image Classification"
+- ### [Deep Residual Networks for Image Classification](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/ResNet50_Image_Classification)
   Designed and implemented a ResNet-50 architecture with skip connections to train very deep convolutional networks for image classification. Leveraged TensorFlow and Keras to build state-of-the-art models with improved accuracy and scalability.
 
 - ### "Transfer Learning with MobileNetV2 for Image Classification"
