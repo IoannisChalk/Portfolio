@@ -127,7 +127,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### "Face Recognition System Using Deep Learning"
   Developed a face recognition system leveraging a pre-trained FaceNet model for encoding face images into 128-dimensional vectors. Implemented one-shot learning and triplet loss to improve accuracy in face verification and recognition tasks.
 
-- ### "Character-Level Language Model for Text Generation"
+- ### [Character-Level Language Model for Text Generation](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Character_Level_Text_Generation)
   Developed an RNN-based model to generate text sequences, trained on dinosaur names. Implemented gradient clipping to handle exploding gradients and leveraged sequence modeling techniques for pattern recognition and novel name generation.
 
 - ### [Emoji Prediction Using Word Embeddings and LSTMs](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Emoji_Prediction_LSTMs)
