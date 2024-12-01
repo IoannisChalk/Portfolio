@@ -130,7 +130,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### "Character-Level Language Model for Text Generation"
   Developed an RNN-based model to generate text sequences, trained on dinosaur names. Implemented gradient clipping to handle exploding gradients and leveraged sequence modeling techniques for pattern recognition and novel name generation.
 
-- ### "Emoji Prediction Using Word Embeddings and LSTMs"
+- ### [Emoji Prediction Using Word Embeddings and LSTMs](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Emoji_Prediction_LSTMs)
   Developed an NLP model to classify text into emoji categories, integrating GloVe word embeddings and LSTMs. Built and trained advanced sentiment classifiers for enhanced contextual emoji suggestions.
 
 - ### "Neural Machine Translation with Attention Mechanisms"
