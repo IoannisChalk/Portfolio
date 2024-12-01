@@ -139,7 +139,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### "Trigger Word Detection Using Deep Learning"
   Designed and implemented a model for trigger word detection using speech data. Developed and processed synthetic audio datasets, applied spectrogram analysis, and trained a neural network to detect and respond to the keyword "activate."
 
-- ### "Transformer Model Implementation for Sequence Processing"
+- ### [Transformer Model Implementation for Sequence Processing](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Transformer_Sequence_Processing)
   Built and trained a Transformer model, implementing positional encodings, scaled dot-product self-attention, and multi-head attention. Developed encoder-decoder architectures for efficient parallel sequence processing.
 
 - ### "Created an image classification model to recognize five different flower species using CNN"
