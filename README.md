@@ -94,7 +94,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Content-Based Movie Recommendation System Using Neural Networks](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Movie_Recommender_Content_Base)
   Developed a neural network model for content-based filtering to recommend movies, leveraging movie features from the MovieLens dataset to provide personalized suggestions.
 
-- ### "Deep Q-Learning Agent for Lunar Lander"
+- ### [Deep Q-Learning Agent for Lunar Lander](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Reinforcement_Learning_Lunar_Lander)
   Trained a DQN agent to safely land a lunar module in a simulation using reinforcement learning. Implemented techniques like experience replay and target networks to improve learning stability and performance.
 
 - ### "Logistic Regression for Image Classification"
