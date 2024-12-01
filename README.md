@@ -142,7 +142,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Transformer Model Implementation for Sequence Processing](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Transformer_Sequence_Processing)
   Built and trained a Transformer model, implementing positional encodings, scaled dot-product self-attention, and multi-head attention. Developed encoder-decoder architectures for efficient parallel sequence processing.
 
-- ### "Created an image classification model to recognize five different flower species using CNN"
+- ### [Created an image classification model to recognize five different flower species using CNN](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Flower_Species_Classification_CNN)
   Developed an image classification model to recognize five different flower species using a pre-trained MobileNetV2 model. The project leveraged transfer learning, freezing the base model's layers and training custom dense layers for flower classification. Implemented advanced data augmentation techniques, including rotation, shifting, zooming, and flipping, to improve accuracy and reduce overfitting. Evaluated model performance with accuracy and loss metrics, visualizing results and predictions for robust validation.
 
 - ### "Citrus Disease Classification Using Convolutional Neural Networks (CNNs)"
