@@ -103,7 +103,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Neural Network for Planar Data Classification (Binary Classification)](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Planar_Data_Binary_Classification_NN)
   Developed a neural network with a single hidden layer to classify non-linear planar data. Implemented forward and backward propagation, cross-entropy loss computation, and parameter optimization for improved classification performance using Python and Scikit-learn.
 
-- ### "Deep Neural Network for Cat Image Classification"
+- ### [Deep Neural Network for Cat Image Classification](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Cat_Image_Classification_DNN)
   Built and trained an L-layer deep neural network for binary classification of cat images, leveraging forward/backward propagation and cross-entropy loss. Improved accuracy over logistic regression using Python and advanced machine learning libraries.
 
 - ### "Regularization Techniques for Overfitting in Deep Learning"
