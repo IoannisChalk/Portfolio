@@ -91,7 +91,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Collaborative Filtering Recommender System for Movie Recommendations](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Movie_Recommender_Collaborative_Filtering)
   Built a collaborative filtering recommender system to provide personalized movie recommendations based on user rating patterns, leveraging TensorFlow for model training.
 
-- ### "Content-Based Movie Recommendation System Using Neural Networks"
+- ### [Content-Based Movie Recommendation System Using Neural Networks](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Movie_Recommender_Content_Base)
   Developed a neural network model for content-based filtering to recommend movies, leveraging movie features from the MovieLens dataset to provide personalized suggestions.
 
 - ### "Deep Q-Learning Agent for Lunar Lander"
