@@ -116,7 +116,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
   Designed and implemented a ResNet-50 architecture with skip connections to train very deep convolutional networks for image classification. Leveraged TensorFlow and Keras to build state-of-the-art models with improved accuracy and scalability.
 
 - ### "Transfer Learning with MobileNetV2 for Image Classification"
-  Adapted and fine-tuned a pre-trained MobileNetV2 model for binary classification, leveraging transfer learning on ImageNet features. Implemented data preprocessing, augmentation, and final layer optimization for improved accuracy.
+  Adapted and fine-tuned a pre-trained MobileNetV2 model for binary classification of images, distinguishing between alpacas and non-alpacas. Leveraged transfer learning on ImageNet features to build a robust model. Implemented advanced data preprocessing techniques, including dataset splitting, normalization, and augmentation (e.g., random flips and rotations). Optimized the final dense layers for the specific target classes and evaluated the model's performance using accuracy and loss metrics.
 
 - ### "Object Detection for Autonomous Driving Using YOLO"
   Implemented the YOLO model for car detection, including bounding box generation, non-max suppression, and intersection over union (IoU) for enhanced accuracy. Processed real-world datasets with TensorFlow for robust object detection in autonomous driving scenarios.
