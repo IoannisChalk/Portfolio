@@ -100,7 +100,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Logistic Regression for Image Classification](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Logistic_Regression_Image_Classifier)
   Built a binary image classifier using logistic regression, implementing gradient descent and cost function optimization with Python libraries like NumPy and Matplotlib.
 
-- ### "Neural Network for Planar Data Classification (Binary Classification)"
+- ### [Neural Network for Planar Data Classification (Binary Classification)](https://github.com/IoannisChalk/Portfolio/tree/main/Deep%20Learning/Planar_Data_Binary_Classification_NN)
   Developed a neural network with a single hidden layer to classify non-linear planar data. Implemented forward and backward propagation, cross-entropy loss computation, and parameter optimization for improved classification performance using Python and Scikit-learn.
 
 - ### "Deep Neural Network for Cat Image Classification"
