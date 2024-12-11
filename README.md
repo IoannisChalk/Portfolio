@@ -152,7 +152,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 ## NLP and LLMs 📚🤖
 - ### [Spam or Ham SMS Classification Using Natural Language Processing (NLP)](https://github.com/IoannisChalk/Portfolio/tree/main/NLP%20and%20LLMs/Spam%20or%20Ham)
 
-Developed and implemented a machine learning pipeline for classifying SMS messages as spam or ham using NLP techniques. Applied text preprocessing steps including TF-IDF vectorization, stopword removal, and tokenization. Trained and evaluated models such as Multinomial Naive Bayes and Support Vector Machines (SVM), leveraging techniques like SMOTE for handling class imbalance. Achieved significant classification performance with metrics including accuracy, precision, and recall, demonstrating proficiency in Scikit-learn, data preprocessing, and model evaluation.
+ Developed and implemented a machine learning pipeline for classifying SMS messages as spam or ham using NLP techniques. Applied text preprocessing steps including TF-IDF vectorization, stopword removal, and tokenization. Trained and  evaluated models such as Multinomial Naive Bayes and Support Vector Machines (SVM), leveraging techniques like SMOTE for handling class imbalance. Achieved significant classification performance with metrics including accuracy, precision, and recall, demonstrating proficiency in Scikit-learn, data preprocessing, and model evaluation.
 
 
 
