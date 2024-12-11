@@ -149,7 +149,7 @@ This portfolio is a testament to my dedication to mastering the field of data sc
   Developed and optimized a Convolutional Neural Network (CNN) model using MobileNetV2 to classify citrus leaf diseases with high accuracy. Applied techniques such as data augmentation, transfer learning, and fine-tuning to enhance model performance, achieving 86.55% test accuracy. Designed a comprehensive pipeline for preprocessing, training, and visualization, showcasing proficiency in TensorFlow and image classification tasks.
 
 
-
+## NLP and LLMs 📚🤖
 
 
 
