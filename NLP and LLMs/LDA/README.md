@@ -15,22 +15,6 @@ Due to file size limitations on GitHub, the dataset `npr.csv` is not included in
 3. **Run the Notebook**, ensuring the file is named **`npr.csv`**.  
 4. **Explore Results:** The Notebook will generate visualizations showing **topic distributions** and **top keywords**.  
 
-## 📈 Example Output  
-
-- **Visualizations:** The Notebook generates insightful graphs showcasing discovered topics and distributions.  
-
-## 🛠️ Technologies Used  
-
-- **Programming Language:** Python  
-- **Libraries:**  
-  - Pandas  
-  - NumPy  
-  - Matplotlib  
-  - Seaborn  
-  - Scikit-learn  
-- **Model:** Latent Dirichlet Allocation (LDA)  
-- **Text Processing Tool:** CountVectorizer  
-
 ## 📜 License  
 
 This project is for **educational purposes only**.  
