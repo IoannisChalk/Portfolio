@@ -1,6 +1,3 @@
-# 📚 Topic Modeling with Latent Dirichlet Allocation (LDA)
-
-This project applies **Topic Modeling** using **LDA** to extract meaningful topics from a dataset of news articles. It involves **text preprocessing**, **model training**, and **evaluation** through visualizations.
 
 ## 📊 Dataset  
 
