@@ -159,5 +159,9 @@ This portfolio is a testament to my dedication to mastering the field of data sc
 - ### [Topic Modeling with Latent Dirichlet Allocation (LDA)](https://github.com/IoannisChalk/Portfolio/tree/main/NLP%20and%20LLMs/LDA)
   Developed a topic modeling pipeline using Latent Dirichlet Allocation (LDA) to uncover hidden thematic structures in a dataset of news articles. Applied text preprocessing techniques including tokenization, stopword removal, and CountVectorizer for feature extraction. Trained an LDA model to identify and extract the most relevant topics. Evaluated model performance through keyword inspection and visualized the topic distribution using Matplotlib and Seaborn. Demonstrated strong proficiency in natural language processing (NLP), unsupervised learning, and Python-based data analysis libraries such as Scikit-learn and Pandas.
 
+- ### [Topic Modeling with LDA and NMF on Quora Questions](https://github.com/IoannisChalk/Portfolio/tree/main/NLP%20and%20LLMs/LDA%20and%20NMF)
+  This project applies **LDA** and **NMF** to identify 20 topics from a dataset of over 400,000 Quora questions. Using **CountVectorizer** for LDA and **TF-IDF Vectorizer** for NMF, we extracted key topics and visualized them using word clouds. The comparison between the two models highlights that **LDA** generates probabilistic topics, while **NMF** produces more distinct and interpretable ones.
+
+
 
 
